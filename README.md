@@ -1,13 +1,12 @@
-# ✨QuarkDevelopment Projeleri
-## 🌐 Projeler Nerede?
+# Proje Listesi
 
-### Projelerimizi Bulabileceğiniz GitHub Kullanıcıları;
 - [Jrd](https://github.com/JrdDeveloper)
 - [Stormy](https://github.com/Stormysx)
 
-# ✨QuarkDevelopment Projects
-## 🌐 Where are the Projects?
+## Jrd
 
-### GitHub Users You Can Find Our Projects;
-- [Jrd](https://github.com/JrdDeveloper)
-- [Stormy](https://github.com/Stormysx)
+[Jrd](https://github.com/JrdDeveloper) adlı kullanıcının projelerine aşağıdaki bağlantıdan ulaşabilirsiniz.
+
+## Stormy
+
+[Stormy](https://github.com/Stormysx) adlı kullanıcının projelerine aşağıdaki bağlantıdan ulaşabilirsiniz.
